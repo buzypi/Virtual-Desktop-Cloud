@@ -1,0 +1,12 @@
+This project aims at creating development environments by exploiting virtualization in our desktops.
+
+The project is part of a presentation: http://buzypi.in/project/desktop-virtualization/desktop-virtualization.html
+
+Desktop Virtualization allows us to:
+* Bring our development environment as close to the production environment as possible.
+* Create a replicable deployment - verify everything before deploying to staging or production.
+* Containerise functionality.
+* Create a "Don't panic" environment for experimentation
+* Eases provisioning for new employees.
+
+
